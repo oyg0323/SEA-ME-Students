@@ -11,3 +11,5 @@
 ## Project Links:
 ### Warm-up
 - https://github.com/Clearsu/SEA-ME-warm-up
+### DES Modules
+- DES_Instrument-Cluster: https://github.com/DES-Instrument-Cluster/Instrument_cluster
