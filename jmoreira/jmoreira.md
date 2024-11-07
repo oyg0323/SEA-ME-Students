@@ -9,4 +9,4 @@
 ## About me:
 - Whether it's code or boulders, I’m all about cracking tough problems.
 ## Project Links:
-- [warm-up](https://github.com/zeira42/SEA-ME-warm-up)
+- [warm-up](https://github.com/SEAME-pt/Team06-SEAME-warm-up)
