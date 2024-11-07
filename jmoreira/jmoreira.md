@@ -1,4 +1,4 @@
-# FirstName LastName (Unique ID)
+# Jose Moreira (jmoreira)
 ## Profile Pic: ![José Moreira](jmoreira.jpeg "jmoreira")
 ## Call me by this name: Zé
 ## Cohort: Nov 2024
