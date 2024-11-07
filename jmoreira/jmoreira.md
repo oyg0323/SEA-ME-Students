@@ -7,6 +7,6 @@
 ## Slack ID: jmoreira
 ## GitHub ID: [zeira42](https://github.com/zeira42)
 ## About me:
-- Solving software and boulder problems
+- Whether it's code or boulders, I’m all about cracking tough problems.
 ## Project Links:
 - [warm-up](https://github.com/zeira42/SEA-ME-warm-up)
