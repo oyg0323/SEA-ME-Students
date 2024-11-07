@@ -1,6 +1,6 @@
 # Antonio Ferreira (aferreira)
 ## Profile Pic:
- <img src=https://antonio-ferreira.com/wp-content/uploads/2024/10/ME_mirror_cut_RGB.png>
+ <img src=https://antonio-ferreira.com/wp-content/uploads/2024/10/ME_driver_BW.jpg>
 
 ## Call me by this name:
 Antonio
