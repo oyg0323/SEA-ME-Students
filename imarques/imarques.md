@@ -7,6 +7,8 @@
 ## Slack ID: imarques
 ## GitHub ID: https://github.com/Pastilhex
 ## About me: 
-- A paragraph about yourself.
+  I’m a dedicated husband and father who loves learning and exploring new ideas. 
+  I'm passionate about technology and fascinated by the mysteries of the universe, 
+  always eager to deepen my understanding of both.
 ## Project Links:
-- Links to your SEA:ME repositories.
+[- SEA:ME HotWheels ](https://github.com/SEAME-pt/SEAME-WarmUp-HotWheels)
