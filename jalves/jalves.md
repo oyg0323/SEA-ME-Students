@@ -1,5 +1,5 @@
 # Joao Alves (jalves)
-## Profile Pic: <img src="../IMG20240128151443.jpg"  width="200"/>
+## Profile Pic: <img src="https://github.com/user-attachments/assets/b26c7287-5963-47ed-af15-79ce528dfbe3" width="200"/>
 ## Call me by this name: Joao
 ## Cohort: November 2024
 ## Email ID: joao.alves@seame.pt
