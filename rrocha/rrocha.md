@@ -1,6 +1,7 @@
 # Rui Rocha (rrocha)
+
 ## Profile Pic: 
-<img src="https://github.com/user-attachments/assets/c3d4aff5-c1fe-4276-9a0c-275852eedc05" alt="profile" width="200"/>
+<img src="https://github.com/user-attachments/assets/7843f305-c4ad-4f9d-926d-15152f1ce2ce" alt="profile" width="200"/>
 
 ## Call me by this name: 
 Rui 
