@@ -9,4 +9,4 @@
 ## About me: 
 Fascinated about robotics, technology and data.
 ## Project Links:
-[- Link to my SEA:ME repositories.](https://github.com/SEAME-pt/Team05_SEA-ME-warm-up)
+[- Link to my SEA:ME repositories.](https://github.com/orgs/SEAME-pt/teams/team05/repositories)
