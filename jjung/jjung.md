@@ -12,4 +12,4 @@
 ## Project Links:
 - https://github.com/JunSpring/SEA-ME-warm-up
 - https://github.com/Instrument-Cluster-Team7/DES_Instrument-Cluster-Team7
-- https://github.com/SEA-ME-2nd-ADS/Autonomous-Lane-Detection
+- https://github.com/Head-Unit-Team1/Head-Unit-Team1
