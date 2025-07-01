@@ -1,12 +1,12 @@
-# espyromilios
+# FirstName LastName (Unique ID)
 ## Profile Pic:
-## Call me by this name:Evangelos
+## Call me by this name:
 ## Cohort: July 2023
-## Email ID: evangelos@chillvives.dev
-## LinkedIn:  https://www.linkedin.com/in/evangelos-spyromilios/
-## Slack ID: Evangelos Spyromilios
-## GitHub ID: V-Spyromilios
+## Email ID:
+## LinkedIn:
+## Slack ID:
+## GitHub ID:
 ## About me:
-From 42 to Mobile development and now to Embedded. Lets get Rusty!
+- A paragraph about yourself.
 ## Project Links:
-https://github.com/V-Spyromilios/SEA-ME-Modules.git
+- Links to your SEA:ME repositories.
