@@ -9,4 +9,4 @@
 ## About me: 
 - A paragraph about yourself.
 ## Project Links:
-- Links to your SEA:ME repositories.
+https://github.com/oyg0323/sea-me-project.git
