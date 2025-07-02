@@ -7,7 +7,7 @@
 ## Slack ID: oyg0323@gmail.com
 ## GitHub ID:oyg0323@gmail.com
 ## About me: 
-- A paragraph about yourself. :)
+- A paragraph about yourself.
 ## Project Links:
 https://github.com/oyg0323/sea-me-project.git
 https://github.com/oyg0323/SEA-ME-Students
