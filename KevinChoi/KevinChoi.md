@@ -16,7 +16,7 @@ Kevin Choi (MinHyeok Choi)
 ## About me:
 - Hi. My name is Minhyeok choi. I'm from South Korea. 
 - I am majoring in mechanical engineering and autonomus driving engineering at Inha univ. 
-- you can call me Kevin. I can speak English and Korean. and my hobby is bodybuilding. Thankyou.
+- you can call me Kevin. I can speak English and Korean. and my hobby is bodybuilding. Thankyou!
 
 ## Project Links:
 - Links to your SEA:ME repositories.(later)
