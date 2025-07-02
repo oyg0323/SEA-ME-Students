@@ -13,6 +13,7 @@ int main(int argc, char* argv[]) {
      string com=argv[1];
      string input = argv[2];
     for(int i=3; i<argc; i++){
+        input=input.append(" ");
         input=input.append(argv[i]);
     }
     
@@ -24,7 +25,7 @@ int main(int argc, char* argv[]) {
         transform(input.begin(), input.end(), input.begin(), ::tolower);
        cout<<input<<"\n";
     }
-    else{
+    else{ 
         cout<<"you only use up or down\n";
         return 0;
     }
