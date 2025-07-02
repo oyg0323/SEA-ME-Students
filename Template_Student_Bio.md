@@ -7,6 +7,6 @@
 ## Slack ID: 
 ## GitHub ID:
 ## About me: 
-- A paragraph about yourself.
+- A paragraph about yourself. ;)
 ## Project Links:
 - Links to your SEA:ME repositories.
