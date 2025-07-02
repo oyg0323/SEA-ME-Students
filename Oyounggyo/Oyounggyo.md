@@ -10,3 +10,4 @@
 - A paragraph about yourself. :)
 ## Project Links:
 https://github.com/oyg0323/sea-me-project.git
+https://github.com/oyg0323/SEA-ME-Students
