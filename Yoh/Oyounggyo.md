@@ -9,6 +9,7 @@
 ## About me: 
 - A paragraph about yourself.
 ## Project Links:
-https://github.com/oyg0323/sea-me-project.git
-https://github.com/oyg0323/SEA-ME-Students
-https://github.com/oyg0323/SEA-ME-Students/blob/main/Oyounggyo/convert.cpp
+- https://github.com/oyg0323/sea-me-project.git
+- https://github.com/oyg0323/SEA-ME-Students
+- https://github.com/oyg0323/SEA-ME-Students/blob/main/Oyounggyo/convert.cpp
+- https://github.com/oyg0323/SEA-ME-Students/blob/main/Yoh/phonebook.cpp
